@@ -46,6 +46,34 @@ A supervised machine learning project focused on building a fraud-detection clas
 
 ---
 
+### 🧩 Project 3 — Customer Segmentation
+
+An unsupervised learning project focused on identifying meaningful customer segments from retail transaction data.
+
+**Key techniques used:**
+- Data preprocessing
+- Feature selection
+- One-Hot Encoding
+- Feature scaling
+- Principal Component Analysis (PCA)
+- K-Means clustering
+- Elbow Method
+- Silhouette Score
+- Cluster profiling
+- Business persona development
+
+**Optimal Clusters:** K = 4
+
+**Customer Personas:**
+- Budget / Low-Value Shoppers
+- Premium High-Value Shoppers
+- Bulk Value Shoppers
+- Selective Premium Shoppers
+
+📁 [View Project 3](./Project%203/)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Python
